@@ -16,5 +16,8 @@
     "url": "https://github.com/gustavodlc8/Tests/issues"
   },
   "homepage": "https://github.com/gustavodlc8/Tests#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

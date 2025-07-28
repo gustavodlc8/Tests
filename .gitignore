@@ -1,0 +1,24 @@
+# Ignora a pasta com dependências do Node.js
+node_modules/
+
+# Ignora arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignora diretório de saída do TypeScript (se existir)
+dist/
+build/
+
+# Ignora arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Ignora arquivos do editor
+.vscode/
+.idea/
